@@ -85,6 +85,8 @@ publication_category:
     title: 'Under Review'
   workingpapers:
     title: 'Working Papers'
+  reports:
+    title: 'Reports & White Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -213,33 +215,36 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: false
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
+  public-writing:
+    output: true
     permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: false
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: false
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: false
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: false
+  #     related: true
   # _pages
   - scope:
       path: ""
@@ -247,15 +252,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: false
+  #     comments: true
   # _publications
   - scope:
       path: ""
@@ -265,23 +270,32 @@ defaults:
       author_profile: true
       share: false
       comments: false
-  # _portfolio
+  # _public_writing
   - scope:
       path: ""
-      type: portfolio
+      type: publications
     values:
       layout: single
       author_profile: true
       share: false
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: false
+      comments: false
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: false
+  #     comment: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: false
 
 
 # Sass/SCSS
