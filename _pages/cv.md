@@ -11,6 +11,8 @@ redirect_from:
 
 <div class="wordwrap">You can find my full CV <a href="{{site.url}}/files/cv.pdf" target="_blank">here</a>.</div>
 
+<p></p>
+<p></p>
 
 Education
 ======
