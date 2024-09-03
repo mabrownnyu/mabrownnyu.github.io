@@ -137,6 +137,10 @@
 <loc>http://localhost:4000/markdown_generator/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/files/cv.pdf</loc>
+<lastmod>2024-09-02T21:30:12-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/old/</loc>
 <lastmod>2024-07-22T13:36:27-04:00</lastmod>
 </url>

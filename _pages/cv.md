@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="wordwrap">You can find my full CV <a href="{{site.url}}/files/cv.pdf" target="_blank">here</a>.</div>
+
+
 Education
 ======
 * Ph.D in Information and Scientific Computing, University of Michigan, 2028 (expected)
