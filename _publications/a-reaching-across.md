@@ -7,10 +7,10 @@ category: underreview
 #date: 2024-05-29
 #venue: 'test'
 #slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
-#paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4076225'
+paperurl: 'https://osf.io/preprints/osf/f9vsg'
 #citation: 'test'
 ---
 
 With Maggie Macdonald, Nejla Asimovic, Rajeshwari Majumdar, Lena Song, Laura Huber, Sarah Graham,  Abby Budiman, Joshua A. Tucker, Jonathan Nagler
 
-Please contact for a draft of the manuscript.
+You can find a preprint of the manuscript [here](https://osf.io/preprints/osf/f9vsg){:target="_blank"}.
