@@ -11,6 +11,8 @@ paperurl: 'https://arxiv.org/abs/2410.23432'
 #citation: 'test'
 ---
 
+Conditionally accepted at Big Data & Society
+
 With Andrew Gruen, Gabe Maldoff, Solomon Messing, Zeve Sanderson, Michael Zimmer
 
 You can find a preprint of the manuscript [here](https://arxiv.org/abs/2410.23432){:target="_blank"}.

@@ -11,6 +11,8 @@ paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4114905'
 #citation: 'test'
 ---
 
+Conditionally accepted at Political Communication
+
 With James Bisbee, Angela Lai, Richard Bonneau, Jonathan Nagler, & Joshua A. Tucker
 
 You can find a pre-print of the paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4114905).
