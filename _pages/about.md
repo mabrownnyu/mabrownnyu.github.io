@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Information and Scientific Computing at the [School of Information](https://www.si.umich.edu/){:target="_blank"} and the [Michigan Institute for Computational Discovery and Engineering](https://micde.umich.edu/){:target="_blank"} (MICDE) at the University of Michigan. My research spans two related areas: computational social science research infrastructure and online political communication. 
+I am a PhD student in Information and Scientific Computing at the [School of Information](https://www.si.umich.edu/){:target="_blank"} (UMSI) and the [Michigan Institute for Computational Discovery and Engineering](https://micde.umich.edu/){:target="_blank"} (MICDE) at the University of Michigan. My research spans two related areas: computational social science research infrastructure and online political communication. 
 
 In my research infrastructure work, I take a broad view of research infrastructure, considering the social, technical, ethical, and policy infrastructures that support research work. I examine how researchers access, share, and reuse internet data responsibly, including the challenges of studying platforms in the “post-API” era, researchers’ experiences with restricted data access systems, and the legal and ethical considerations of web scraping. I also evaluate how large language models can support computational social science workflows, with an emphasis on privacy-preserving methods for replication and data reuse. Finally, I study the social infrastructures that sustain researchers themselves, particularly early career researchers who study harmful content online or face the impacts of ongoing political attacks on research. 
 
 In my political communication work, I study how political actors, platforms, and audiences interact online, and what those interactions mean for civic life. This work examines political communication across platforms, algorithmic amplification of political content, and the cross-platform spread of election misinformation and state propaganda. I am also interested in the relationship between offline and online contexts, including partisan geographic segregation, neighborhood discourse on Nextdoor, and geographic targeting in political advertising.
 
 <!-->
-Taking my interests in research infrastructure and political communication together, my dissertation examines how the conditions of researcher data access shape what we know about social media and civic life. Through three studies using computational social science, audit, and experimental methods, I show how access arrangements shape who studies social media, what gets studied, what can be reproduced and replicated, and what the public trusts. I draw on the discplines of libraries and archives, computational communication, science of science, and science and technology studies to show how social media research gets done today and how we as researchers can build better social, technical, ethical, and policy infrastructures for social media research that supports the betterment of civic life.
+
 <!-->
 
 I am a the recipient of the 2026-2027 [MICDE Fellowship](https://micde.umich.edu/academic-programs/fellowships/) for my research on privacy-preserving synthetic data for replication and reuse of social media datasets.
